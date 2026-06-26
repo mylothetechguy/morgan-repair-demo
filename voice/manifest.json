@@ -1,0 +1,80 @@
+[
+  {
+    "i": 0,
+    "role": "agent",
+    "file": "/voice/line-00.mp3",
+    "text": "Thanks for calling Morgan Repair Services! This is Morgan's virtual assistant. How can I help you today?"
+  },
+  {
+    "i": 1,
+    "role": "caller",
+    "file": "/voice/line-01.mp3",
+    "text": "Hi, my AC stopped cooling and it's getting really hot in the house."
+  },
+  {
+    "i": 2,
+    "role": "agent",
+    "file": "/voice/line-02.mp3",
+    "text": "Oh no — let's get you taken care of fast. Is this for a home in our Keithville or Shreveport service area?"
+  },
+  {
+    "i": 3,
+    "role": "caller",
+    "file": "/voice/line-03.mp3",
+    "text": "Yes, I'm in Shreveport."
+  },
+  {
+    "i": 4,
+    "role": "agent",
+    "file": "/voice/line-04.mp3",
+    "text": "Perfect. Is the unit running but blowing warm air, or not turning on at all?"
+  },
+  {
+    "i": 5,
+    "role": "caller",
+    "file": "/voice/line-05.mp3",
+    "text": "It's running, but the air coming out is warm."
+  },
+  {
+    "i": 6,
+    "role": "agent",
+    "file": "/voice/line-06.mp3",
+    "text": "Got it — that's usually something we can fix same day. I can send a licensed technician out. Are you free this afternoon between 2 and 4?"
+  },
+  {
+    "i": 7,
+    "role": "caller",
+    "file": "/voice/line-07.mp3",
+    "text": "That works for me."
+  },
+  {
+    "i": 8,
+    "role": "agent",
+    "file": "/voice/line-08.mp3",
+    "text": "Great. Can I grab your name and the best callback number?"
+  },
+  {
+    "i": 9,
+    "role": "caller",
+    "file": "/voice/line-09.mp3",
+    "text": "It's Jordan, and my number is 318-555-0142."
+  },
+  {
+    "i": 10,
+    "role": "agent",
+    "file": "/voice/line-10.mp3",
+    "text": "Thank you, Jordan. You're booked for a 2 to 4 PM AC diagnostic today, and I'll text you a confirmation. Anything else I can help with?"
+  },
+  {
+    "i": 11,
+    "role": "caller",
+    "file": "/voice/line-11.mp3",
+    "text": "Nope, that's everything. Thank you!"
+  },
+  {
+    "i": 12,
+    "role": "agent",
+    "file": "/voice/line-12.mp3",
+    "text": "You're all set — stay cool, and we'll see you this afternoon!"
+  }
+]
